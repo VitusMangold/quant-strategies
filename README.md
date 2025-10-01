@@ -1,7 +1,10 @@
 # Quantitative Trading Strategies
 
-This repository collects Jupyter notebooks developed for the Hedge Fund Club Mannheim.  
-Each session introduces core concepts of quantitative finance and demonstrates how to design, implement, and backtest systematic trading strategies in Python.  
+This repository collects Jupyter notebooks developed in the context of the **Hedge Fund Club Mannheim’s Learning Sessions on *Public Markets and Portfolio Management***.  
+
+The work reflects my journey from participant to lecturer:  
+- **WS2024**: As part of the course assessment, I developed a **pairs trading strategy** (statistical arbitrage) and implemented it in Python.  
+- **WS2025**: As **Director of Education**, I prepared and presented a session on **options-based trend-following**, expanding the program with option pricing, event-driven strategies, and systematic backtesting.  
 
 The projects aim to bridge theory and practice: from pricing models and econometrics to full strategy implementation and evaluation.
 
